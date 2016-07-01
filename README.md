@@ -2,18 +2,18 @@
 
 You can contact @NepalBitcoin [![Twitter Follow](https://img.shields.io/twitter/follow/shields_io.svg?style=social&label=Follow&maxAge=2592000?style=plastic)](https://twitter.com/NepalBitcoin) or Telegram [https://telegram.me/NepalBitcoin](https://telegram.me/NepalBitcoin) with your questions, suggestions &/or almost anything related to blockchain tech in Nepal.
 
-![This version ](https://img.shields.io/github/downloads/Nepal-Blockchain/go-mtevx/v1.4.7.1/total.svg)
+![This version ](https://img.shields.io/github/downloads/Nepal-Blockchain/go-mtevx/v1.4.9/total.svg)
 
-![Last version ](https://img.shields.io/github/downloads/Nepal-Blockchain/go-mtevx/v1.4.6.1/total.svg)
+![Last version ](https://img.shields.io/github/downloads/Nepal-Blockchain/go-mtevx/v1.4.7.1/total.svg)
 
 ![Total](https://img.shields.io/github/downloads/Nepal-Blockchain/go-mtevx/total.svg)
 
-# Download MtEvx client v1.4.7.1 (FEWA)
-### [Windows-64bit](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.7.1/MtEvx-Win64-v1.4.7.1.zip) 
-### [Windows-32bit](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.7.1/MtEvx-Win32-v1.4.7.1.zip) 
-### [Linux-AMD64](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.7.1/MtEvx-linux-amd64-v1.4.7.1.zip) 
-### [Linux-386](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.7.1/MtEvx-linux-386-v1.4.7.1.zip)  
-
+# Download MtEvx client v1.4.9 (12-Kunay)
+### [Windows-64bit](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.9/MtEvx-Win64-v1.4.9.zip) 
+### [Windows-32bit](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.9/MtEvx-Win32-v1.4.9.zip) 
+### [Linux-AMD64](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.9/MtEvx-linux-amd64-v1.4.9.zip) 
+### [Linux-386](https://github.com/Nepal-Blockchain/go-mtevx/releases/download/v1.4.9/MtEvx-linux-386-v1.4.9.zip)  
+### [Other platforms](https://github.com/Nepal-Blockchain/go-mtevx/releases)
 ### Specification 
 * **Block duration** : 60 seconds 
 * **Reward** : 8.848 *EVX* per block
@@ -31,7 +31,7 @@ enode://afab44bf3023350aed8fabe4e9bc45103b31018d59b03ddcec4fcbee61c00e982de4269f
 
 Download zip file for your platform, extract and run `mtevx console`.
 Everything else is same as Ethereum/geth client.
-If you'd like to check/build from source, [Nepal-Blockchain/go-ethereum/tree/mtevx1.4.7](https://github.com/Nepal-Blockchain/go-ethereum/tree/mtevx1.4.7)
+If you'd like to check/build from source, [Nepal-Blockchain/go-ethereum/tree/MtEvx1.4.9](https://github.com/Nepal-Blockchain/go-ethereum/tree/MtEvx1.4.9)
 
 
 #### [Download GUI Wallet MIST](https://github.com/ethereum/mist/releases)
